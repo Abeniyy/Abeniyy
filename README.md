@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abeniyy
 - 👀 I’m interested in Programming and app development
-- 🌱 I’m currently learning Software engineering
+- 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on :Not sure yet
 - 📫 How to reach me abenibah@gmail.com
 
